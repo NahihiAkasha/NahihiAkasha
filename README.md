@@ -1,4 +1,5 @@
 ### Hi there 👋
+![lumine](https://api.ambr.top/assets/UI/UI_Gacha_AvatarImg_PlayerGirl.png)
 
 <!--
 **NahihiAkasha/NahihiAkasha** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
